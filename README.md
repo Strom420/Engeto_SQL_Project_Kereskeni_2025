@@ -10,4 +10,4 @@ Jedná se o závěrečnou práci kurzu Datové Akademie od společnosti Engeto.
   5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
 Cílem projektu bylo prokázat své znalosti jazyka SQL.
-Práce zahrnovala např. *tvorbu tabluek, spojování tabulek funkcí JOIN a využití agregačních funkcí*
+Práce zahrnovala např. *tvorbu tabulek, spojování tabulek funkcí JOIN a využití agregačních funkcí*
